@@ -7,6 +7,7 @@
 .main {
     background: #FBFCFD;
     position: relative;
+    overflow: hidden;
 }
 
 .main-header {
